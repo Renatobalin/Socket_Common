@@ -1,6 +1,5 @@
 package br.com.renato.mensagem;
 
-import java.net.Authenticator;
 import java.util.Date;
 
 public class Mensagem {
